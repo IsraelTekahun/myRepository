@@ -7,3 +7,5 @@ istället för
 el.style.background = "blue";
 el.style.color = "white";
 el.style.width = "200px";
+
+den nedre rerenders sidan varje gång man ändrar stylen, den första gör inte det
