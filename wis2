@@ -1,0 +1,9 @@
+* flytta all js till nedre delen utav html sidan för att sidan ska laddas snabbare
+
+el.style.cssText = " background:blue; color:white; width:200px";
+
+istället för 
+
+el.style.background = "blue";
+el.style.color = "white";
+el.style.width = "200px";
